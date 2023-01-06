@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c33d99b-69fe-4d7b-9d48-d3a40787dca0" name="Changes" comment="" />
+    <list default="true" id="5c33d99b-69fe-4d7b-9d48-d3a40787dca0" name="Changes" comment="subido" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,8 +76,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672988959519</updated>
-      <workItem from="1672988961693" duration="8481000" />
+      <workItem from="1672988961693" duration="8856000" />
     </task>
+    <task id="LOCAL-00001" summary="subido">
+      <created>1673003626934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673003626934</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +101,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="subido" />
+    <option name="LAST_COMMIT_MESSAGE" value="subido" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
