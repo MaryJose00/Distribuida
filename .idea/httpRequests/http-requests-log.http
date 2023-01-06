@@ -1,0 +1,279 @@
+GET http://localhost:7001/books/2
+{:
+"id": 2
+"isbn": 123 ,
+"title": "Harry Potter",
+"author": "Nose",
+"price": 25
+}:
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-01-06T052300.200.json
+
+###
+
+PUT http://localhost:7001/books/2
+{:
+"id": 2
+"isbn": 123 ,
+"title": "Harry Potter",
+"author": "Nose",
+"price": 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+PATCH http://localhost:7001/books/2
+{:
+"id": 2
+"isbn": 123 ,
+"title": "Harry Potter",
+"author": "Nose",
+"price": 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+PUT http://localhost:7001/books/2
+{:
+"id": 2
+"isbn": 123 ,
+"title": "Harry Potter",
+"author": "Nose",
+"price": 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+POST http://localhost:7001/books/2
+{:
+"id": 2
+"isbn": 123 ,
+"title": "Harry Potter",
+"author": "Nose",
+"price": 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+POST http://localhost:7001/books
+{:
+"id": 1
+"isbn": 123 ,
+"title": "Harry Potter",
+"author": "Nose",
+"price": 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+PUT http://localhost:7001/books
+{:
+"id": 1
+"isbn": 123 ,
+"title": "Harry Potter",
+"author": "Nose",
+"price": 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+PUT http://localhost:7001/books
+{:
+"isbn": 123 ,
+"title": "Harry Potter",
+"author": "Nose",
+"price": 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+PUT http://localhost:7001/books
+{:
+isbn: 123 ,
+title: "Harry Potter",
+author: "Nose",
+price: 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+PUT http://localhost:7001/books/
+{:
+isbn: 123 ,
+title: "Harry Potter",
+author: "Nose",
+price: 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+DELETE http://localhost:7001/books/5
+{:
+isbn: 123 ,
+title: "Harry Potter",
+author: "Nose",
+price: 25
+}:
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-01-06T051225.200.json
+
+###
+
+DELETE http://localhost:7001/books/5
+{:
+isbn: 123 ,
+title: "Harry Potter",
+author: "Nose",
+price: 25
+}:
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-01-06T051214.200.json
+
+###
+
+DELETE http://localhost:7001/books/5
+{:
+isbn: 123 ,
+title: "Harry Potter",
+author: "Nose",
+price: 25
+}:
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-01-06T051054.200.json
+
+###
+
+PUT http://localhost:7001/books/4
+{:
+isbn: 123 ,
+title: "Harry Potter",
+author: "Nose",
+price: 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+PUT http://localhost:7001/books/4
+{:
+isbn: 123 ,
+title: "Harry Potter",
+author: "Nose",
+price: 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+PUT http://localhost:7001/books
+{:
+isbn: 123 ,
+title: "Harry Potter",
+author: "Nose",
+price: 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+PUT http://localhost:7001/books
+{:
+"isbn": 123 ,
+"title": "Harry Potter",
+"author": "Nose",
+"price": 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+POST http://localhost:7001/books
+{:
+"id": 2,
+"isbn": 123 ,
+"title": "Harry Potter",
+"author": "Nose",
+"price": 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+PUT http://localhost:7001/books
+{:
+"id": 2,
+"isbn": 123 ,
+"title": "Harry Potter",
+"author": "Nose",
+"price": 25
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
